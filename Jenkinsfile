@@ -18,6 +18,7 @@ pipeline {
     
 }
    
+  
     stages {
 
     // Building Docker image
